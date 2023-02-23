@@ -1,0 +1,9 @@
+{
+    "require-dev": {
+        "symfony/maker-bundle": "^1.48"
+    },
+  "require": {
+    "ext-pdo": "*",
+        "twig/intl-extra": "^3.5"
+  }
+}
